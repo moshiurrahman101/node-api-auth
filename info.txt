@@ -1,0 +1,24 @@
+user: panda
+pass: WuTocvUCpng4VtQE
+
+
+
+.env
+========
+PORT=5000
+MONGO_URI=mongodb+srv://panda:WuTocvUCpng4VtQE@cluster0.s9ku5.mongodb.net/authapi?retryWrites=true&w=majority&appName=Cluster0
+
+jwt=mysecretkeyforjsonwebtoken
+NODE_ENV=development
+
+
+
+
+
+
+=================
+git init
+git commit -m "api dev v1"
+git branch -M main
+git remote add origin https://github.com/moshiurrahman101/auth-api-using-node.git
+git push -u origin main
